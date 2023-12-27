@@ -24,7 +24,7 @@ From last 5 years transitioning from embedded development to fullstack web solut
 
 * 🌍  I'm based in Stockholm, Sweden
 * ✉️  You can contact me at [fraz.ali@aqc.se](mailto:fraz.ali@aqc.se)
-* 🧠  I'm learning 🤖 Generative AI and finetuning LLMs, <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img style="vertical-align: middle; display: inline-block;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="32" height="32" alt="Go" /></a> programming langauge
+* 🧠  I'm learning 🤖 Generative AI and finetuning LLMs, <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img style="vertical-align:end;display:inline-block;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="32" height="32" alt="Go" /></a> programming langauge
 * 🤝  I'm open to collaborating on Anything involving Typescript or Python and Neovim Plugins (Lua)
 * ⚡  Passionate about music 🎧, checkout my (https://open.spotify.com/user/frazali) 🎵
 
