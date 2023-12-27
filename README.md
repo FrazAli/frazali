@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi 👋 My name is Fraz Ali
+Hi there👋
+My name is Fraz Ali
 ================================================================================================================================
 
 Fullstack Engineer
