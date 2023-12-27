@@ -20,7 +20,8 @@ Hi 👋 My name is Fraz Ali
 Fullstack Engineer
 ------------------
 
-From last 5 years transitioning from embedded development to fullstack web solutions. Passionate about simplicity and standards.
+In last 5 years, I have been transitioning from embedded firmware development to fullstack web development. 
+Passionate about simplicity, consistency and implementation standards.
 
 * 🌍  I'm based in Stockholm, Sweden
 * ✉️  You can contact me at [fraz.ali@aqc.se](mailto:fraz.ali@aqc.se)
