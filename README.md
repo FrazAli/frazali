@@ -26,7 +26,7 @@ From last 5 years transitioning from embedded development to fullstack web solut
 * ✉️  You can contact me at [fraz.ali@aqc.se](mailto:fraz.ali@aqc.se)
 * 🧠  I'm learning 🤖 Generative AI and finetuning LLMs, Go programming langauge
 * 🤝  I'm open to collaborating on Anything involving Typescript or Python and Neovim Plugins (Lua)
-* ⚡  Passionate about music 🎧, checkout my <a href="https://open.spotify.com/user/frazali"><img src="https://avatars.githubusercontent.com/u/251374?s=200&v=4" width=32 height=32 alt="Spotify Profile"/></a> 
+* ⚡  Passionate about music 🎧, checkout my playlists <a href="https://open.spotify.com/user/frazali"><img src="https://avatars.githubusercontent.com/u/251374?s=200&v=4" width=24 height=24 alt="Spotify Profile"/></a> 
 
 ### Skills
 
