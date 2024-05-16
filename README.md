@@ -24,7 +24,7 @@ In last 5 years, I have been transitioning from embedded firmware development to
 Passionate about simplicity, consistency and implementation standards.
 
 * 🌍  I'm based in Stockholm, Sweden
-* ✉️  You can contact me at [fraz.ali@aqc.se](mailto:fraz.ali@aqc.se)
+* ✉️  You can contact me at [frazaliqureshi@gmail.com](mailto:frazaliqureshi@gmail.com)
 * 🧠  I'm learning ...
   * 🤖 Generative AI and finetuning LLMs
   * Go programming langauge.
