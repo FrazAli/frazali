@@ -25,9 +25,6 @@ Passionate about simplicity, consistency and implementation standards.
 
 * 🌍  I'm based in Stockholm, Sweden
 * ✉️  You can contact me at [frazaliqureshi@gmail.com](mailto:frazaliqureshi@gmail.com)
-* 🧠  Currently, I'm learning ...
-  * 🤖 Generative AI and finetuning LLMs
-  * <a href="https://go.dev/doc/" target="_blank" rel="noreferrer">Go</a> programming langauge.
 * ⚡  Passionate about music 🎧, checkout my playlists <a href="https://open.spotify.com/user/frazali"><img src="https://avatars.githubusercontent.com/u/251374?s=200&v=4" width=16 height=16 alt="Spotify Profile"/></a> 
 
 ### Skills
