@@ -20,7 +20,7 @@ Fraz Ali
 Fullstack Engineer
 ------------------
 
-In last 5 years, I have been transitioning from embedded firmware development to fullstack web development. 
+Over the past five years, I’ve shifted from embedded firmware to full-stack web development.
 Passionate about simplicity, consistency and implementation standards.
 
 * 🌍  I'm based in Stockholm, Sweden
