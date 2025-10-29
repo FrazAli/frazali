@@ -1,6 +1,8 @@
 <!--
 ### Hi there 👋
 **FrazAli/frazali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🎧  While you are here, checkout my playlists <a href="https://open.spotify.com/user/frazali"><img src="https://avatars.githubusercontent.com/u/251374?s=200&v=4" width=16 height=16 alt="Spotify Profile"/></a> 
+****
 
 Here are some ideas to get you started:
 
@@ -25,7 +27,6 @@ Passionate about simplicity, consistency and implementation standards.
 
 * 🌍  I'm based in Stockholm, Sweden
 * ✉️  You can contact me at [frazaliqureshi@gmail.com](mailto:frazaliqureshi@gmail.com)
-* 🎧  While you are here, checkout my playlists <a href="https://open.spotify.com/user/frazali"><img src="https://avatars.githubusercontent.com/u/251374?s=200&v=4" width=16 height=16 alt="Spotify Profile"/></a> 
 
 ### Stats
 
